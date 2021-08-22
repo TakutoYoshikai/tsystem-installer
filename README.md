@@ -2,7 +2,7 @@
 
 ### Usage
 ```bash
-bash <(curl -s https://bit.ly/3y63bdG)
+bash <(curl -sL https://bit.ly/3y63bdG)
 ```
 
 ### LICENSE 
