@@ -40,6 +40,8 @@ git add .
 git commit -m "init"
 git remote add origin git@github.com:$github/$tbin_repo.git
 
+echo $tbin_repo > ~/tsystem/tbin-name.txt
+
 cd $dir
 
 echo Please prepare your github private key.
@@ -48,6 +50,7 @@ read keypath
 cp $keypath ~/tsystem/id_github
 
 cd ~/tsystem/bin
+./update.sh
 ./setup.sh $github
 
 cd ~/tsystem
