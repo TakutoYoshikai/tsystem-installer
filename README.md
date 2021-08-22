@@ -1,4 +1,6 @@
 # tsystem-installer
+### Requirements
+* Ubuntu 20.04
 
 ### Usage
 ```bash
