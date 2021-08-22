@@ -5,7 +5,7 @@
 bash <(curl -sL https://bit.ly/3y63bdG)
 
 # or
-# bash <(curl -s https://raw.githubusercontent.com/TakutoYoshikai/tsystem-installer/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/TakutoYoshikai/tsystem-installer/master/install.sh)
 ```
 
 ### LICENSE 
