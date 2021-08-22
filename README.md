@@ -2,7 +2,7 @@
 
 ### Usage
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/TakutoYoshikai/tsystem-installer/master/install.sh)
+bash <(curl -s https://bit.ly/3y63bdG)
 ```
 
 ### LICENSE 
