@@ -14,7 +14,7 @@ git config --global user.email $email
 echo -n github id:
 read github
 
-echo Please create tsystem repo on your github.
+echo Please create tsystem repo on your github. It should be a private repository.
 echo -n tsystem repo name:
 read tsystem_repo
 
@@ -28,7 +28,8 @@ git remote add origin git@github.com:$github/$tsystem_repo.git
 
 cd $dir
 
-echo Please create tbin repo on your github.
+echo Please create tbin repo on your github. It should be a private repository.
+
 echo -n tbin repo name:
 read tbin_repo
 
