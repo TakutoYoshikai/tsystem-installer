@@ -1,4 +1,6 @@
 # tsystem-installer
+[tsystem](https://github.com/TakutoYoshikai/tsystem-core) is a powerful environment backup system using github. 
+
 ### Requirements
 * Ubuntu 20.04
 
